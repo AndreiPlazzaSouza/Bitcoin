@@ -1,7 +1,7 @@
 
 # Bitcoin
 
-**Automate Wallet Creation on Bitcoin.com**
+**Automate Wallet Creator on Bitcoin.com**
 
 
 This project provides tools and scripts to automate the creation of Bitcoin wallets on [Bitcoin.com](https://www.bitcoin.com) using Python. It leverages browser automation to simulate user interactions, making it easier to generate wallets for testing, development, or educational purposes.
